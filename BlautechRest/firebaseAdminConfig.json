@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "blautech-prueba",
+  "private_key_id": "bf31257b0f69e57d3781ccf8c5ff1c93e158e02d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOyF9GRj+gapWq\n67pN+KnS9AhIdQimFKRNTG/KC2Pv/+/C9vZYT5C8hqXxcXckI1pmJY9eynfciG7u\nKQ4TzMK9vAs/9DhFcE0Ysfu2pEOLGfDvsuYa+jmfWav7QNU0fZ1HDoq522enYKNN\nlvzFyGA3J6n2STzbLoaylcjVQT7h8KQUc91/uXae7lT7IZnOAvnny5ap6K6W7F1B\naKeK84soZfevVQT4cGV/ATbgLhFQOk5HEtud7PhMqbJOIjxi3ZsjoSM9AdCI0+fS\nJ0551c/1CKGbl5ko+2TTsJ5HeVGH80qI7XXryOh+LGEdcHXYHiHtB63sVcHxfovq\nyXgHjSLlAgMBAAECggEAA2RQA8QVORlmeRZCyRKiHn64QBADY04FX+s4DjVfn0kw\ncp9AbTRo6F7BDBPTY3lc+z30exaRHsHyJ9/uhi6epyQVfygPYDw2V4hb26QYI4j6\nZcQmeBzQoyeCZa2rkZ/Z25eGeQP7UEiKhTRL0ya1RVJWPF75K5M4zGcekzjtwiD7\n0yMQ1j6HBMBTAMah3srVtj4yGyw7Cbn6QTBVi7YgrMlzseFhRf5TbuuGrL8TVUY2\naH7ZiTs1gOi2l9QOIJaw4lAlbwhvm7kVtp/a4fc4S/gsvvUwJpdDY2phwrHkCmq7\n/JJHc6RpRoYwKo5Rj9XPqj4MjQyXlHml4dxDzOV5hQKBgQDry95aezNQW+p97xsx\n6LXbDbH4ETxuQ+ml+UttepRMRZi1nvt2qZ1GM0FkGj5qP5q0DHKHitKhm903M5kY\nYoI4HfqxTazNkmdDMfrOilY9KFD7PhxdmG1HC9rUGv1MG/A4JITXdQnv/TOy5buu\nnlkRgS1gLCMEcpQHoN7J1VbEFwKBgQDggBi7nv1lEHKiJ/lkdewT4QczG5HEgH3W\nrS7pj9q/gGuBkWdU081OJpv18/Tfa7Nxk6EJCpcv2IQ0fEG1lueJ1n3IkzP+4Fm5\n46uLpaaQ2Xbxle+oNXy8sjgZdLlJN+m7ovng7GtnQQojcXVnsfEANw3KgzNOB8rC\nUnRn6BXiYwKBgQDoT1sqWeccbPKCUGjCqztALiYA+TpIiLBRzWL64aHp40eo6JFn\nP4Sr/SOXtCN6GmAYs4rC74rFngI8uKFE3QjesOqkdJqjjnIeSceIZdLBPk9KuM7J\nh7tiG9Pk1RJpQb1SEuiuPakkwJmGz8AxMeEe1d4WumVlpF0jhuL4hy+M0QKBgHWy\n0sSywxiUOfVHzdlcdYuqg3LI9nA2CUNegmTTFZUmx7YjPDBd5podZdDZuLzVoztd\ncaTi14avFgjKSEzis7sxJ7rbafwrNP9fHFXXX+87A7/+oqnmeOIY8Y5vAqEfXjwQ\nYr8IU/rLP3x7hFj8EmTReDp+9IvpS+T7A6piI+8PAoGAcuNRS+qXztOm7HNnCK+2\n+fHQzACmxmweASZ35L8LpR4pQtPdRDjPeeXlhHK19A/D6f/rLe0u6hOQgri3jK1I\ni7rnapQWuRMKUca6WIjlrvchqeTVA24Up6wyXPbzyzhZaxveFsm5sGoEblAV6ucD\nSPKOZiR5reQWoViPQ8GgRsQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gd6p9@blautech-prueba.iam.gserviceaccount.com",
+  "client_id": "113858630724841780481",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gd6p9%40blautech-prueba.iam.gserviceaccount.com"
+}
